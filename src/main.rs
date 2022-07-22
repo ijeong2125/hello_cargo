@@ -1,21 +1,21 @@
-extern crate rand;
-
-use std::io;
-use rand::Rng;
-
 fn main() {
-    println!("Guess the number!");
+    let mut s = String::from("hello world");
 
-    let secret_number = rand::thread_rng().gen_range(1, 101);
+    let word = first_word(s);
 
-    println!("The secret number is: {}", secret_number);
+    s.clear(); // Error!
 
-    println!("Please input your guess.");
+    println!("the first word is: {}", word);
+}
 
-    let mut guess = String::new();
+fn first_word(s: String) -> usize {
+    let bytes = s.as_bytes();
 
-    io::stdin().read_line(&mut guess)
-        .expect("Failed to read line");
+    for (i, &item) in bytes.iter().enumerate() {
+        if item == b' ' {
+            return i;
+        }
+    }
 
-    println!("You guessed: {}", guess);
+    s.len()
 }

@@ -1,0 +1,579 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2022-07-05 오전 9:27:29
+1 노드의 "D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "Debug\" 디렉터리를 만들고 있습니다.
+  "Debug\CompilerIdC.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\CompilerIdC.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj]
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
+
+빌드하지 못했습니다.
+
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj"(기본 대상)(1)->
+(Link 대상) -> 
+  LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj]
+
+    경고 0개
+    오류 1개
+
+경과 시간: 00:00:00.99
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2022-07-05 오전 9:27:30
+1 노드의 "D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "Debug\" 디렉터리를 만들고 있습니다.
+  "Debug\CompilerIdC.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\CompilerIdC.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj]
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
+
+빌드하지 못했습니다.
+
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj"(기본 대상)(1)->
+(Link 대상) -> 
+  LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj]
+
+    경고 0개
+    오류 1개
+
+경과 시간: 00:00:00.92
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2022-07-05 오전 9:27:32
+1 노드의 "D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "Debug\" 디렉터리를 만들고 있습니다.
+  "Debug\CompilerIdCXX.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\CompilerIdCXX.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
+
+빌드하지 못했습니다.
+
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj"(기본 대상)(1)->
+(Link 대상) -> 
+  LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    경고 0개
+    오류 1개
+
+경과 시간: 00:00:00.97
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2022-07-05 오전 9:27:33
+1 노드의 "D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "Debug\" 디렉터리를 만들고 있습니다.
+  "Debug\CompilerIdCXX.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\CompilerIdCXX.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
+
+빌드하지 못했습니다.
+
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj"(기본 대상)(1)->
+(Link 대상) -> 
+  LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    경고 0개
+    오류 1개
+
+경과 시간: 00:00:00.97
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/Work/CDCU/CODE_OUT/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_e2176.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=14.0 /v:m && Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W1 /WX- /O2 /Oy- /D _MBCS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e2176.dir\Debug\\" /Fd"cmTC_e2176.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.24\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+LINK : fatal error LNK1104: cannot open file 'ucrt.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\CMakeTmp\cmTC_e2176.vcxproj]
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/Work/CDCU/CODE_OUT/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_d0a25.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=14.0 /v:m && Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W1 /WX- /O2 /Oy- /D _MBCS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d0a25.dir\Debug\\" /Fd"cmTC_d0a25.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue D:\Work\CDCU\CODE_OUT\CMakeFiles\CMakeTmp\testCCompiler.c
+  
+  testCCompiler.c
+LINK : fatal error LNK1104: cannot open file 'ucrt.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\CMakeTmp\cmTC_d0a25.vcxproj]
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2022-07-05 오후 2:37:41
+1 노드의 "D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "Debug\" 디렉터리를 만들고 있습니다.
+  "Debug\CompilerIdC.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\CompilerIdC.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj]
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
+
+빌드하지 못했습니다.
+
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj"(기본 대상)(1)->
+(Link 대상) -> 
+  LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj]
+
+    경고 0개
+    오류 1개
+
+경과 시간: 00:00:00.85
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2022-07-05 오후 2:37:42
+1 노드의 "D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "Debug\" 디렉터리를 만들고 있습니다.
+  "Debug\CompilerIdC.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\CompilerIdC.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj]
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
+
+빌드하지 못했습니다.
+
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj"(기본 대상)(1)->
+(Link 대상) -> 
+  LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj]
+
+    경고 0개
+    오류 1개
+
+경과 시간: 00:00:00.72
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2022-07-05 오후 2:37:43
+1 노드의 "D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "Debug\" 디렉터리를 만들고 있습니다.
+  "Debug\CompilerIdCXX.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\CompilerIdCXX.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
+
+빌드하지 못했습니다.
+
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj"(기본 대상)(1)->
+(Link 대상) -> 
+  LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    경고 0개
+    오류 1개
+
+경과 시간: 00:00:00.79
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2022-07-05 오후 2:37:44
+1 노드의 "D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "Debug\" 디렉터리를 만들고 있습니다.
+  "Debug\CompilerIdCXX.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\CompilerIdCXX.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
+
+빌드하지 못했습니다.
+
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj"(기본 대상)(1)->
+(Link 대상) -> 
+  LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    경고 0개
+    오류 1개
+
+경과 시간: 00:00:00.76
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/Work/CDCU/CODE_OUT/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_b8b9c.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=14.0 /v:m && Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W1 /WX- /O2 /Oy- /D _MBCS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b8b9c.dir\Debug\\" /Fd"cmTC_b8b9c.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.24\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+LINK : fatal error LNK1104: cannot open file 'ucrt.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\CMakeTmp\cmTC_b8b9c.vcxproj]
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/Work/CDCU/CODE_OUT/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_9c52e.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=14.0 /v:m && Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W1 /WX- /O2 /Oy- /D _MBCS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9c52e.dir\Debug\\" /Fd"cmTC_9c52e.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue D:\Work\CDCU\CODE_OUT\CMakeFiles\CMakeTmp\testCCompiler.c
+  
+  testCCompiler.c
+LINK : fatal error LNK1104: cannot open file 'ucrt.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\CMakeTmp\cmTC_9c52e.vcxproj]
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2022-07-20 오전 9:53:09
+1 노드의 "D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "Debug\" 디렉터리를 만들고 있습니다.
+  "Debug\CompilerIdC.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\CompilerIdC.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj]
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
+
+빌드하지 못했습니다.
+
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj"(기본 대상)(1)->
+(Link 대상) -> 
+  LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj]
+
+    경고 0개
+    오류 1개
+
+경과 시간: 00:00:01.72
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2022-07-20 오전 9:53:11
+1 노드의 "D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "Debug\" 디렉터리를 만들고 있습니다.
+  "Debug\CompilerIdC.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\CompilerIdC.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj]
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
+
+빌드하지 못했습니다.
+
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj"(기본 대상)(1)->
+(Link 대상) -> 
+  LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdC\CompilerIdC.vcxproj]
+
+    경고 0개
+    오류 1개
+
+경과 시간: 00:00:00.85
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2022-07-20 오전 9:53:13
+1 노드의 "D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "Debug\" 디렉터리를 만들고 있습니다.
+  "Debug\CompilerIdCXX.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\CompilerIdCXX.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
+
+빌드하지 못했습니다.
+
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj"(기본 대상)(1)->
+(Link 대상) -> 
+  LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    경고 0개
+    오류 1개
+
+경과 시간: 00:00:00.83
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2022-07-20 오전 9:53:14
+1 노드의 "D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "Debug\" 디렉터리를 만들고 있습니다.
+  "Debug\CompilerIdCXX.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\CompilerIdCXX.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
+
+빌드하지 못했습니다.
+
+"D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj"(기본 대상)(1)->
+(Link 대상) -> 
+  LINK : fatal error LNK1104: cannot open file 'ucrtd.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\3.24.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    경고 0개
+    오류 1개
+
+경과 시간: 00:00:00.89
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/Work/CDCU/CODE_OUT/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_9922a.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=14.0 /v:m && Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W1 /WX- /O2 /Oy- /D _MBCS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9922a.dir\Debug\\" /Fd"cmTC_9922a.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.24\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+LINK : fatal error LNK1104: cannot open file 'ucrt.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\CMakeTmp\cmTC_9922a.vcxproj]
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/Work/CDCU/CODE_OUT/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_2c746.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=14.0 /v:m && Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W1 /WX- /O2 /Oy- /D _MBCS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2c746.dir\Debug\\" /Fd"cmTC_2c746.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue D:\Work\CDCU\CODE_OUT\CMakeFiles\CMakeTmp\testCCompiler.c
+  
+  testCCompiler.c
+LINK : fatal error LNK1104: cannot open file 'ucrt.lib' [D:\Work\CDCU\CODE_OUT\CMakeFiles\CMakeTmp\cmTC_2c746.vcxproj]
+
+
+
